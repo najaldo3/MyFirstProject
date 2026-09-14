@@ -1,0 +1,8 @@
+*.class
+*.jar
+.vscode/
+target/
+build/
+out/
+.env
+*.log
